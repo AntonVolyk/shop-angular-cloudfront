@@ -32,5 +32,5 @@ Follow the steps:
 
 Links:
 
-- CloudFront: https://d1ehz9pkx17y5q.cloudfront.net
+- CloudFront: https://d2vqi3n9ulcbuk.cloudfront.net/
 - S3-website: http://my-second-angular-aws-app.s3-website-us-east-1.amazonaws.com
